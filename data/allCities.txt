@@ -1,0 +1,778 @@
+007
+015
+039
+047
+063
+Aberdeen
+ADA
+ADAIR
+ADAMS
+Adrian
+AIR
+Akron
+ALAMEDA
+ALAMOSA
+Albany
+Albany-Lebanon
+Albany-Schenectady-Troy
+Albuquerque
+ALEXANDER
+Allegan
+Allentown-Bethlehem-Easton
+Altoona
+AMADOR
+Amarillo
+Americus
+Anchorage
+Anderson
+ANDERSON
+ANDREW
+Ann Arbor
+Appleton
+ARAPAHOE
+ARCHULETA
+Ardmore
+Arkadelphia
+AROOSTOOK
+AROOSTOOK
+Asheville
+ASHLAND
+Ashtabula
+ASOTIN
+Athens
+ATHENS
+Athens-Clarke County
+Atlanta-Sandy Springs-Marietta
+Atlantic City
+Augusta-Richmond County
+Augusta-Waterville
+Austin-Round Rock
+AVERY
+BAKER
+Bakersfield
+BALTIMORE
+BALTIMORE (CITY)
+Baltimore-Towson
+Bangor
+BANNOCK
+Baraboo
+Barnstable Town
+Baton Rouge
+Bay City
+BEAUFORT
+Beaumont-Port Arthur
+BEAVER
+BEAVERHEAD
+BECKER
+BELKNAP
+Bellingham
+BELMONT
+BELTRAMI
+Bend
+BENEWAH
+Bennington
+BENTON
+BERKELEY
+BERKS
+BERKSHIRE
+Berlin
+BERNALILLO
+BEXAR
+BIBB
+BIG HORN
+Birmingham-Hoover
+Bishop
+Bismarck
+BLAINE
+Bloomington
+Bloomington-Normal
+BOISE
+Boise City-Nampa
+BOLIVAR
+BONNER
+BOONE
+Boston-Cambridge-Quincy
+Boulder
+BOULDER
+BOUNDARY
+Bowling Green
+BOX ELDER
+BRADFORD
+Brainerd
+BREWSTER
+Bridgeport-Stamford-Norwalk
+BRISTOL
+BROOKINGS
+BROWN
+Brownsville-Harlingen
+Brunswick
+Buffalo-Niagara Falls
+BURKE
+Burlington-South Burlington
+BUTLER
+BUTTE
+CA8 - ARB
+CABELL
+CACHE
+Cadillac
+CALAVERAS
+Cambridge
+CAMERON
+Canton-Massillon
+CANYON
+Cape Coral-Fort Myers
+CARBON
+CARIBOU
+Carlsbad-Artesia
+CARLTON
+CARSON CITY
+CARTER
+CASCADE
+Casper
+CASS
+CASWELL
+CATANO
+CEDAR
+Cedar Rapids
+Chambersburg
+CHAMPAIGN
+Champaign-Urbana
+CHARLESTON
+Charleston-North Charleston
+Charlotte-Gastonia-Concord
+Charlottesville
+Chattanooga
+CHAUTAUQUA
+CHELAN
+CHESTERFIELD
+Cheyenne
+Chicago-Naperville-Joliet
+Chico
+Chico
+CHRISTIAN
+CHURCHILL
+Cincinnati-Middletown
+City of The Dalles
+CLACKAMAS
+CLAIBORNE
+CLARK
+Clarksville
+CLAY
+CLAYTON
+Cleveland-Elyria-Mentor
+Clinton
+CLINTON
+COCONINO
+CODINGTON
+COFFEE
+College Station-Bryan
+Colorado Springs
+Columbia
+COLUMBIA
+Columbus
+COLUSA
+Concord
+CONVERSE
+COOK
+Cookeville
+COOS
+Corning
+Corpus Christi
+Corsicana
+CUMBERLAND
+CUSTER
+CUYAHOGA
+DAKOTA
+Dallas-Fort Worth-Arlington
+Dalton
+Daphne-Fairhope
+Davenport-Moline-Rock Island
+DAWSON
+Dayton
+Decatur
+DE KALB
+DEL NORTE
+Deltona-Daytona Beach-Ormond Beach
+Deming
+DENVER
+Denver-Aurora
+DESCHUTES
+Des Moines
+Detroit-Warren-Livonia
+DEWEY
+Dickinson
+DODGE
+Dodge City
+DONA ANA
+DOOR
+DORCHESTER
+DOUGLAS
+Dover
+DuBois
+DUBOIS
+DUCHESNE
+Duluth
+DUNN
+Durango
+Durham
+DUVAL
+Dyersburg
+Eagle Pass
+East Stroudsburg
+EAU CLAIRE
+EDDY
+Effingham
+El Centro
+Elizabethtown
+Elkhart-Goshen
+ELKO
+Ellensburg
+El Paso
+Erie
+ERIE
+ESSEX
+Eugene-Springfield
+Evansville
+Fairbanks
+FAIRFAX
+Fargo
+Farmington
+Fayetteville
+Fayetteville-Springdale-Rogers
+FERGUS
+FERRY
+FLAGLER
+Flagstaff
+FLATHEAD
+Flint
+Florence
+Fond du Lac
+FOREST
+Fort Collins-Loveland
+Fort Smith
+Fort Walton Beach-Crestview-Destin
+Fort Wayne
+FRANKLIN
+FREMONT
+Fresno
+FRESNO
+FS1 - Forest Service
+Gadsden
+GAGE
+Gainesville
+GALLATIN
+GALLIA
+GARFIELD
+GARRETT
+GBU
+Gettysburg
+GILA
+GILES
+Gillette
+GILPIN
+GLACIER
+GLENN
+GOSHEN
+GRAHAM
+Granbury
+GRAND
+Grand Island
+Grand Junction
+Grand Rapids-Wyoming
+GRANT
+Grants Pass
+GRANVILLE
+Greeley
+Green Bay
+GREENBRIER
+GREENE
+Greensboro-High Point
+Greenville
+Gulfport-Biloxi
+GUNNISON
+Hagerstown-Martinsburg
+HAMILTON
+HAMPDEN
+HANCOCK
+Hanford-Corcoran
+HARNEY
+Harriman
+Harrisburg-Carlisle
+Harrison
+Harrisonburg
+Hartford-West Hartford-East Hartford
+Hattiesburg
+HAWAII
+HAYS
+HAYWOOD
+Helena
+HENDERSON
+HENNEPIN
+HI1
+Hickory-Lenoir-Morganton
+HILL
+Hilo
+Hobbs
+Holland-Grand Haven
+HOLMES
+Homosassa Springs
+Honolulu
+HOOD RIVER
+Houma-Bayou Cane-Thibodaux
+Houston-Sugar Land-Baytown
+HOWARD
+HUGHES
+HUMBOLDT
+Huntington-Ashland
+Huntsville
+HURON
+IDAHO
+Idaho Falls
+Indiana
+Indianapolis
+INYO
+Iowa City
+IRON
+Ithaca
+Jackson
+JACKSON
+Jacksonville
+JEFFERSON
+Jefferson City
+JERSEY
+JO DAVIESS
+JOHNSON
+JOHNSTON
+Johnstown
+Joplin
+JOSEPHINE
+JUNEAU
+Kahului-Wailuku
+Kalamazoo-Portage
+Kalispell
+KANAWHA
+Kansas City
+Keene
+Kennewick-Richland-Pasco
+KENOSHA
+KENT
+KERN
+Killeen-Temple-Fort Hood
+KING
+Kingsport-Bristol-Bristol
+Kinston
+KIOWA
+KITTITAS
+KLAMATH
+Klamath Falls
+KNOX
+Knoxville
+Kokomo
+KOOTENAI
+Laconia
+La Crosse
+Lafayette
+La Grande
+LAKE
+Lake Charles
+Lake City
+Lake Havasu City-Kingman
+Lakeland
+Lancaster
+Lansing-East Lansing
+LA PAZ
+LA PORTE
+Laramie
+Laredo
+Laredo
+LARIMER
+Las Cruces
+Las Vegas-Paradise
+LATAH
+Lawrenceburg
+Lawton
+Lebanon
+LEBANON
+LEM
+LEMHI
+LEWIS
+LEWIS AND CLARK
+Lewiston
+Lewiston-Auburn
+Lexington-Fayette
+LIBERTY
+LICKING
+Lima
+Lincoln
+LINCOLN
+Lincolnton
+LINN
+Little Rock-North Little Rock
+Longview
+LOS ANGELES
+Los Angeles-Long Beach-Santa Ana
+Louisville
+Lubbock
+LUCAS
+LYCOMING
+LYON
+Macon
+MACON
+Madera
+Madison
+MADISON
+MAHONING
+MALHEUR
+MANATEE
+Manchester-Nashua
+MANISTEE
+Manitowoc
+MARICOPA
+MARION
+MARIPOSA
+Marshall
+MARTIN
+MASON
+MATANUSKA-SUSITNA
+MAUI
+MAYAGUEZ
+MAYES
+McAlester
+McAllen-Edinburg-Mission
+MC CLAIN
+MC CRACKEN
+MC KENZIE
+Medford
+Memphis
+MENDOCINO
+Merced
+MERCER
+Meridian
+MERRIMACK
+Miami
+MIAMI - DADE
+Miami-Fort Lauderdale-Miami Beach
+Michigan City-La Porte
+Middlesborough
+MIDDLESEX
+MILLE LACS
+Milwaukee-Waukesha-West Allis
+MINIDOKA
+Minneapolis-St. Paul-Bloomington
+MISSOULA
+MITCHELL
+Mobile
+MOBILE
+Modesto
+MONO
+Monroe
+MONROE
+MONTEREY
+MONTEZUMA
+Montgomery
+MONTGOMERY
+Morehead City
+MORGAN
+Morgantown
+Morristown
+Moscow
+Moses Lake
+Mount Vernon
+Mount Vernon-Anacortes
+MULTNOMAH
+Muncie
+Muscatine
+MUSCATINE
+MUSCOGEE
+Muskegon-Norton Shores
+Myrtle Beach-Conway-North Myrtle Beach
+N/A
+Naples-Marco Island
+Nashville-Davidson--Murfreesboro
+NAVAJO
+NEOSHO
+New Castle
+NEW CASTLE
+New Haven-Milford
+New Orleans-Metairie-Kenner
+New York-Northern New Jersey-Long Island
+Niles-Benton Harbor
+NOBLE
+Nogales
+NORFOLK
+NORTHAMPTON
+NORTH SLOPE
+Norwich-New London
+NOWATA
+NPS
+NYE
+Ocala
+Odessa
+Ogden-Clearfield
+OKANOGAN
+Oklahoma City
+OLIVER
+Olympia
+Omaha-Council Bluffs
+ONEIDA
+ORANGE
+Orlando-Kissimmee
+ORLEANS
+OUTAGAMIE
+Owensboro
+OXFORD
+Oxnard-Thousand Oaks-Ventura
+PACIFIC
+Paducah
+Palm Bay-Melbourne-Titusville
+PALM BEACH
+PALO ALTO
+Panama City-Lynn Haven
+PARK
+Parkersburg-Marietta-Vienna
+Pascagoula
+Payson
+Pendleton-Hermiston
+PEND OREILLE
+PENOBSCOT
+Pensacola-Ferry Pass-Brent
+Peoria
+PERRY
+PHILADELPHIA
+Philadelphia-Camden-Wilmington
+PHILLIPS
+Phoenix Lake-Cedar Ridge
+Phoenix-Mesa-Scottsdale
+PIKE
+PIMA
+PINAL
+PINELLAS
+PITKIN
+Pittsburgh
+PLACER
+PLUMAS
+PLYMOUTH
+Pocatello
+POLK
+Ponca City
+PONTOTOC
+Port Angeles
+Portland-South Portland-Biddeford
+Portland-Vancouver-Beaverton
+Portsmouth
+Poughkeepsie-Newburgh-Middletown
+POWDER RIVER
+Prescott
+PRINCE EDWARD
+Prineville
+Providence-New Bedford-Fall River
+Provo-Orem
+PROWERS
+Pueblo
+Pullman
+PUTNAM
+Quincy
+RACINE
+Raleigh-Cary
+RAMSEY
+RANDOLPH
+Rapid City
+RAVALLI
+Reading
+Red Bluff
+Redding
+Red Wing
+Reno-Sparks
+RICHLAND
+Richmond
+RICHMOND
+RIO ARRIBA
+RIO BLANCO
+RIVERSIDE
+Riverside-San Bernardino-Ontario
+Riverton
+Roanoke
+Rochester
+ROCK
+ROCKBRIDGE
+Rockford
+ROCKINGHAM
+ROCKLAND
+Rock Springs
+Rocky Mount
+Rome
+ROUTT
+Rutland
+Sacramento--Arden-Arcade--Roseville
+Salem
+Salinas
+Salisbury
+Salt Lake City
+San Antonio
+SAN BENITO
+SAN BERNARDINO
+SANDERS
+San Diego-Carlsbad-San Marcos
+San Francisco-Oakland-Fremont
+San Jose-Sunnyvale-Santa Clara
+SAN JUAN
+San Juan-Caguas-Guaynabo
+SAN LUIS OBISPO
+San Luis Obispo-Paso Robles
+SAN MIGUEL
+SANTA BARBARA
+Santa Barbara-Santa Maria
+Santa Cruz-Watsonville
+Santa Fe
+Santa Rosa-Petaluma
+Sarasota-Bradenton-Venice
+Savannah
+SCHOOLCRAFT
+SCIOTO
+Scottsbluff
+Scranton--Wilkes-Barre
+Seaford
+Seattle-Tacoma-Bellevue
+Sebring
+SEVIER
+Sevierville
+SHEBOYGAN
+Shelton
+Sheridan
+SHERIDAN
+SHERMAN
+SHOSHONE
+Shreveport-Bossier City
+Sierra Vista-Douglas
+SILVER BOW
+SIMPSON
+Sioux City
+Sioux Falls
+SISKIYOU
+SKAGIT
+SKAMANIA
+Somerset
+SOMERSET
+SONORA
+South Bend-Mishawaka
+Spartanburg
+Spokane
+SPOKANE
+Springfield
+STARK
+State College
+ST. BERNARD
+STE GENEVIEVE
+STEVENS
+St. George
+ST. JAMES
+St. Joseph
+St. Louis
+ST. LOUIS
+ST. LOUIS (CITY)
+ST. LUCIE
+St. Marys
+Stockton
+SUBLETTE
+SUFFOLK
+Summerville
+SUMMIT
+SUMTER
+SUSQUEHANNA
+SUTTER
+SWAIN
+SWEETWATER
+Syracuse
+Tallahassee
+Tampa-St. Petersburg-Clearwater
+Taos
+TAYLOR
+Terre Haute
+TETON
+Texarkana
+Thomasville-Lexington
+TILLAMOOK
+TIOGA
+Toledo
+TOOELE
+Topeka
+Torrington
+Traverse City
+TREGO
+Trenton-Ewing
+TRINITY
+Truckee-Grass Valley
+TUCKER
+Tucson
+TULARE
+Tulsa
+TULSA
+Tupelo
+Tuscaloosa
+TUSCOLA
+TWIN FALLS
+Tyler
+UINTAH
+Ukiah
+UNION
+UTAH
+Utica-Rome
+Valdosta
+Vallejo-Fairfield
+VALLEY
+VAN BUREN
+Vero Beach
+Victoria
+VILAS
+Vincennes
+Vineland-Millville-Bridgeton
+VIRGINIA BEACH
+Virginia Beach-Norfolk-Newport News
+Visalia-Porterville
+Wabash
+Waco
+WAHKIAKUM
+WALKER
+Walla Walla
+WALLOWA
+WARD
+Warner Robins
+WARREN
+WASHAKIE
+WASHINGTON
+Washington-Arlington-Alexandria
+Waterloo-Cedar Falls
+Watertown-Fort Drum
+Wausau
+Weirton-Steubenville
+WELD
+Wenatchee
+WESTON
+WEXFORD
+WHATCOM
+Wheeling
+WHITE PINE
+Whitewater
+WHITLEY
+Wichita
+Williamsport
+Willimantic
+Wilmington
+Winchester
+Winston-Salem
+Worcester
+WORCESTER
+WYOMING
+WYTHE
+Yakima
+YAKIMA
+YALOBUSHA
+YAMHILL
+YANCEY
+YELLOWSTONE
+YORK
+York-Hanover
+Youngstown-Warren-Boardman
+Yuba City
+YUKON-KOYUKUK
+Yuma
