@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Pollutants and COVID-19 - A Visualization</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+<div id="controls">
+    <label for="city-select">Choose a city:</label>
+    <select id="city-select">
+        <option value="Los Angeles-Long Beach-Santa Ana">Los Angeles</option>
+        <option value="New York-Northern New Jersey-Long Island">New York</option>
+        <option value="Chicago-Naperville-Joliet">Chicago</option>
+        <option value="Seattle-Tacoma-Bellevue">Seattle</option>
+        <option value="Miami-Fort Lauderdale-Miami Beach">Miami</option>
+    </select>
+
+    <label for="pollutant-select">Choose a pollutant:</label>
+    <select id="pollutant-select">
+        <option value="pm25">PM2.5</option>
+        <option value="so2">SO2</option>
+        <option value="no2">NO2</option>
+    </select>
+
+    <label for="start-date">Start Date:</label>
+    <input type="date" id="start-date" value="2020-01-01" min="2020-01-01" max="2020-12-31">
+
+    <label for="end-date">End Date:</label>
+    <input type="date" id="end-date" value="2020-12-31" min="2020-01-01" max="2020-12-31">
+
+    <div id="description"></div>
+</div>
+
+<div id="linegraph" class="linegraph"></div>
+
+<div id="tooltip" style="position: absolute; visibility: hidden; padding: 10px; background-color: white; border: 1px solid #000; border-radius: 5px; pointer-events: none;"></div>
+
+<div id="lower-charts">
+    <div id="barchart" class="half-width"></div>
+    <div id="scatterplot" class="half-width"></div>
+</div>
+
+<footer style="position: fixed; left: 10px; bottom: 10px; color: #aaa; font-size: 0.8em;">
+    Created by Alex Somheil, Z1888439
+</footer>
+
+
+<script src="js/traffic_data_process.js"></script>
+<script src="js/pollutant_data_process.js"></script>
+<script src="js/chart.js"></script>
+</body>
+</html>
